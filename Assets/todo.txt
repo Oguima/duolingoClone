@@ -51,4 +51,20 @@ Bonnus:
 Politica, comunicação, fazer as coisas funcionarem...
 
 -----------------------------
+Para ajustar o repositório, removendo inconsistências do passado...
+Limpando histórico:
+
+$ cd myrepo
+$ rm -rf .git
+
+$ git init
+$ git add .
+$ git commit -m "Removed history, due to sensitive data"
+
+$ git remote add origin github.com:yourhandle/yourrepo.git
+$ git push -u --force origin master
+
+https://www.willandskill.se/en/deleting-your-git-commit-history-without-removing-repo-on-github-bitbucket/
+
+git remote add origin https://github.com/Oguima/duolingoClone.git
 
