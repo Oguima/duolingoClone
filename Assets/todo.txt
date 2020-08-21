@@ -1,0 +1,54 @@
+14/08/2020
+Duolingo Clone:
+Referências: IONE SOUZA
+Abas:
+Detalhe, no Android, uma TabBar, aparece em cima,
+precisa configurar ela como BottonNavigationBar.
+No IOS, aparece embaixo.
+
+https://www.youtube.com/watch?v=Yv6VWT_OjjY&t=3069s
+
+Estudo IOS:
+https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/BuildABasicUI.html#//apple_ref/doc/uid/TP40015214-CH5-SW1
+
+https://developer.apple.com/videos/wwdc2020/
+
+What is new in Swift:
+https://developer.apple.com/videos/play/wwdc2020/10170/
+
+https://developer.apple.com/documentation/
+
+------------------------------------------
+15/08
+
+Vídeos WDC.
+Medium. - 
+
+Json:
+https://disease.sh/docs/#/Covid-19%3A%20Worldometers/get_v3_covid_19_countries
+
+https://disease.sh/v3/covid-19/countries?yesterday=false&sort=todayCases&allowNull=true
+
+Escolha: 
+Git Hub Actions:
+https://www.youtube.com/watch?v=giCR4VgKjQY
+
+Dicas Balta:
+1 - Visão completa: de uma Stack.
+2 - Tenha Foco:
+3 - Não pular o básico !
+Base sólida...
+Paterns:
+4 - Contribuir para a comunidade.
+Reforçar algo, vc escreve sobre ...
+Meetups..
+5 - Mão na massa !
+Colocar em prática...
+
+Bonnus:
+- Saiba pesquisar no google.
+- Ganha: quem resolve problemas.
+Politica, comunicação, fazer as coisas funcionarem...
+
+-----------------------------
+
